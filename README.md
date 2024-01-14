@@ -1,1 +1,1 @@
-![image](GA.tif)
+![image](./GA.tif)
